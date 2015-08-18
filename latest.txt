@@ -1,0 +1,1 @@
+https://github.com/TemporalReality/ServerLauncher/releases/download/1.0.0/TRServerLauncher.jar
